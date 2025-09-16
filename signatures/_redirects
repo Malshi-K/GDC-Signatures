@@ -1,3 +1,5 @@
-# In your _redirects file
-/signature-2025.png /signature-2025.png 200
-/*  /index.html 200
+# Direct access to the PNG file
+/signature-2025.png  /signature-2025.png  200
+
+# Optional: Make the root redirect to the PNG
+# /  /signature-2025.png  301
