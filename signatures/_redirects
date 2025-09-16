@@ -1,1 +1,3 @@
-/ /signature-2025.png 200
+# In your _redirects file
+/signature-2025.png /signature-2025.png 200
+/*  /index.html 200
